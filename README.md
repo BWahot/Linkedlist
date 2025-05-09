@@ -9,3 +9,5 @@ display() method
 Prints all nodes in order
 delete(key) method
 Removes the first node with the given value.Adjusts links so the list remains connected.
+
+test the singly linkedlist by giving out examples.
